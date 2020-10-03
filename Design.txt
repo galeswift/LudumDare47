@@ -1,0 +1,13 @@
+Top down shmup
+Play 10 seconds at a time
+When dead, new ship gets spawned, old ships replay previous action
+One boss wit weak points
+When weak points die they blow up the player ships in range
+Player weapons are chargeable
+Each weapon and attack is timed to the beat of the music
+As new players spawn the melody builds up through the timed attacks
+
+Coop mode
+
+Boss is mostly stationary
+Telegraphs attacks (doesn’t target specific ships)
